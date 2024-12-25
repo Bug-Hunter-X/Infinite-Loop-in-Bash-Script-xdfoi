@@ -1,0 +1,1 @@
+This repository demonstrates a common error in bash scripting: an infinite loop caused by the use of `while true` without a termination condition. The `bug.sh` file contains the erroneous code.  The `bugSolution.sh` file provides a corrected version with a proper exit condition.
